@@ -38,14 +38,14 @@
 ### 2. 모니터링 시스템 구축
 - 결과: 장애 탐지 시간 70% 단축
 
-👉 [자세히 보기](./projects/monitoring.md)
+👉 [자세히 보기](./projects/monitoring-system.md)
 
 ---
 
 ### 3. 정산 데이터 크롤링 자동화
 - 결과: 매출 손실 90% 감소
 
-👉 [자세히 보기](./projects/crawling.md)
+👉 [자세히 보기](./projects/crawling-system.md)
 
 ---
 
